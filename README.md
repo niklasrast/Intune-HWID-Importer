@@ -1,5 +1,11 @@
 # Automated Hardware-ID Onboarding for Windows Autopilot
 
+![GitHub repo size](https://img.shields.io/github/repo-size/niklasrast/MEM-Intune-HWID-Importer)
+
+![GitHub issues](https://img.shields.io/github/issues-raw/niklasrast/MEM-Intune-HWID-Importer)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/niklasrast/MEM-Intune-HWID-Importer)
+
 Export the hardware id from your clients with the Install-Script -Name Get-WindowsAutoPilotInfo Module from PSGallery first.
 
 This repo contains an powershell scripts to import Windows hardware ids (HWID) for the Windows Autopilot service. You can import many CSV files parallel.

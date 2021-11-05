@@ -22,7 +22,7 @@ The scripts create a logfile with the name of the .ps1 script in the folder $PSS
 
 ## Requirements:
 - PowerShell 5.0
-- Windows 10
+- Windows 10 or later
 - Azure Active Directory
 - Microsoft Intune Subscription
 - Microsoft Intune License

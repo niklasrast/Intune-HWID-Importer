@@ -14,7 +14,7 @@ Place all your HWID.CSV files in the folder NEW and run apimporter.ps1. After th
 
 ## Import:
 ```powershell
-PowerShell.exe -ExecutionPolicy Bypass -Command .\apimporter.ps1
+C:\Windows\SysNative\WindowsPowershell\v1.0\PowerShell.exe -ExecutionPolicy Bypass -Command .\apimporter.ps1
 ```
 
 ## Logfiles:
